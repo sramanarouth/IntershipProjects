@@ -1,1 +1,1 @@
-# IntershipProjects
+# InternshipProjects
